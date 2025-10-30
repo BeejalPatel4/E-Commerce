@@ -32,7 +32,7 @@ const Footer = () => {
   </h5>
   <div className="d-flex justify-content-center gap-3 mt-3">
     <a
-      href="https://www.google.com/search?q=bijal+patel+fashion"
+      href="https://www.google.com/search?q=yourprofile"
       target="_blank"
       rel="noopener noreferrer"
       style={{ color: "#fff", fontSize: "1.5rem" }}
@@ -102,3 +102,4 @@ const Footer = () => {
 };
 
 export default Footer;
+
