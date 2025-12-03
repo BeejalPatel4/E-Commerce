@@ -1,11 +1,5 @@
-// Legacy style (dashboard ignored)
-{
-  "builds": [
-    { "src": "package.json", "use": "@vercel/node" }
-  ]
-}
 
-// Modern style (dashboard applies)
 {
   "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }]
 }
+
