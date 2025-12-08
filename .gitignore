@@ -27,6 +27,8 @@ backend/dist/
 .vscode/*
 !.vscode/extensions.json
 .idea
+.Frontrnd/env
+
 .DS_Store
 *.suo
 *.ntvs*
