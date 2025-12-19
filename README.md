@@ -196,5 +196,10 @@ Integration tests for API endpoints
 Error boundaries on the frontend to prevent UI crashes
 
 ## Screenshots
+<img width="1920" height="805" alt="Home" src="https://github.com/user-attachments/assets/bb3a833d-b215-4545-9af0-14bd9cc2c960" />
+<img width="1920" height="902" alt="secound" src="https://github.com/user-attachments/assets/031c441e-a04d-4936-8950-d9da9422bac2" />
+<img width="1918" height="917" alt="third" src="https://github.com/user-attachments/assets/02f07895-cd58-4434-9200-9a4fb221b1d0" />
+<img width="1902" height="915" alt="Profile" src="https://github.com/user-attachments/assets/4dd7522d-44d6-42f1-b47c-19c59efae30e" />
+
 
 
